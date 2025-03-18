@@ -28,7 +28,7 @@ An intelligent chatbot built with Gradio and LangChain that exclusively answers 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/kihiu-ho/electronic-devices-chatbot.git
+git clone https://github.com/kihiu-ho/ElectronicDeviceChatbot.git
 cd electronic-devices-chatbot
 ```
 
