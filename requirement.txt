@@ -1,0 +1,12 @@
+openai
+langchain
+faiss-cpu
+gradio
+numpy
+wikipedia
+arxiv
+transformers
+requests
+langchain_openai
+sentence_transformers
+load_dotenv
