@@ -28,7 +28,7 @@ An intelligent chatbot built with Gradio and LangChain that exclusively answers 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/electronic-devices-chatbot.git
+git clone https://github.com/kihiu-ho/electronic-devices-chatbot.git
 cd electronic-devices-chatbot
 ```
 
@@ -59,7 +59,7 @@ python chatbot.py
 Open your browser and navigate to:
 
 ```bash
-http://localhost:7860](http://localhost:7860)
+http://localhost:7860
 ```
 
 Use the chat interface to input queries and review the responses and internal debug information.
